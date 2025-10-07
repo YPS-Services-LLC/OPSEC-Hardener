@@ -1,3 +1,14 @@
+#!/usr/bin/env bash
+# ==========================================================
+#  YPS Services LLC — README Deployment Script
+#  Opsec Hardener v3.1 Interactive Edition
+# ==========================================================
+set -e
+
+REPO_DIR="${1:-/home/ypsservicesllc/root/OPSEC-Hardener}"
+cd "$REPO_DIR" || { echo "Repo not found: $REPO_DIR"; exit 1; }
+
+cat > README.md <<'EOF'
 <!--
 YPS Services LLC — Opsec Hardener v3.1 Interactive Edition
 -->
@@ -59,3 +70,4 @@ sudo ./install.sh
 
 git push origin main
 echo "✅ README.md updated and pushed to main."
+EOF
