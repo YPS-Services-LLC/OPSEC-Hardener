@@ -1,0 +1,9 @@
+[Unit]
+Description=Opsec Hardener log-only scan
+After=network.target
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/opsec-hardener
+User=root
+[Install]
+WantedBy=multi-user.target
