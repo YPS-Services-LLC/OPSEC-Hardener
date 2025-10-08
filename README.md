@@ -6,7 +6,7 @@
   <a href="https://github.com/YPS-Services-LLC/Sys-Snapshots">github.com/YPS-Services-LLC/Sys-Snapshots</a>
 </p>
 <p align="center">
-  <img src="https://github.com/YPS-Services-LLC/OPSEC-Hardener/blob/main/assets/watermark-505953-angled.svg" width="120" height="80"><br>
+  <img src="https://raw.githubusercontent.com/YPS-Services-LLC/OPSEC-Hardener/99833b7e0681f43ef70717f50cf289399768de4f/assets/watermark-505953-angled.svg" width="120" height="80"><br>
   <img src="https://img.shields.io/badge/version-v3.1-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/platform-Fedora%20%7C%20Ubuntu-green?style=for-the-badge" alt="platform badge">
   <img src="https://img.shields.io/badge/status-Stable-orange?style=for-the-badge">
