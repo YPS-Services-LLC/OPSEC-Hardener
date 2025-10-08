@@ -1,20 +1,13 @@
-<!--
-YPS Services LLC — Opsec Hardener v3.1 Interactive Edition
--->
-
 <h1 align="center">⚙️ Opsec Hardener v3.1 — Interactive Edition</h1>
-
 <p align="center">
-<b>YPS Services LLC — B20250292295</b><br>
-AUS: +61&nbsp;3&nbsp;8907&nbsp;8593&nbsp;&nbsp;|&nbsp;&nbsp;USA:&nbsp;+1&nbsp;(213)&nbsp;528-8185<br>
-✉ <a href="mailto:contact@yps.services">contact@yps.services</a><br>
-<a href="https://github.com/YPS-Services-LLC/OPSEC-Hardener">github.com/YPS-Services-LLC/OPSEC-Hardener</a>
+  <b>YPS Services LLC — B20250292295</b><br>
+  AUS: +61 3 8907 8593 | USA: +1 (213) 528-8185<br>
+  ✉ <a href="mailto:contact@yps.services">contact@yps.services</a><br>
+  <a href="https://github.com/YPS-Services-LLC/Sys-Snapshots">github.com/YPS-Services-LLC/Sys-Snapshots</a>
 </p>
-
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/version-3.1-blue?style=for-the-badge" alt="version badge">
+  <img src="assets/watermark-505953-angled.svg" width="120" height="80"><br>
+  <img src="https://img.shields.io/badge/version-v3.1-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/platform-Fedora%20%7C%20Ubuntu-green?style=for-the-badge" alt="platform badge">
   <img src="https://img.shields.io/badge/status-Stable-orange?style=for-the-badge">
 </p>
