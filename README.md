@@ -14,10 +14,9 @@ AUS: +61&nbsp;3&nbsp;8907&nbsp;8593&nbsp;&nbsp;|&nbsp;&nbsp;USA:&nbsp;+1&nbsp;(2
 ---
 
 <p align="center">
-  <img src="assets/watermark-505953-angled.svg" width="120" height="80" alt="YPS watermark"><br>
   <img src="https://img.shields.io/badge/version-3.1-blue?style=for-the-badge" alt="version badge">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="license badge">
-  <img src="https://img.shields.io/badge/platform-Fedora%20%7C%20Ubuntu-orange?style=for-the-badge" alt="platform badge">
+  <img src="https://img.shields.io/badge/platform-Fedora%20%7C%20Ubuntu-green?style=for-the-badge" alt="platform badge">
+  <img src="https://img.shields.io/badge/status-Stable-orange?style=for-the-badge">
 </p>
 
 ---
