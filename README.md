@@ -49,22 +49,6 @@ cd ~/opsec-hardener
 # run installer
 sudo ./install.sh
 
-git push origin main
-echo "✅ README.md updated and pushed to main."
-<h1 align="center">⚙️ Opsec Hardener v3.1 — YPS Services LLC</h1>
-<p align="center">
-  <b>YPS Services LLC — B20250292295</b><br>
-  AUS: +61 3 8907 8593 | USA: +1 (213) 528-8185<br>
-  ✉ <a href="mailto:contact@yps.services">contact@yps.services</a><br>
-  <a href="https://github.com/YPS-Services-LLC/OPSEC-Hardener">github.com/YPS-Services-LLC/OPSEC-Hardener</a>
-</p>
-<p align="center">
-  <img src="assets/watermark-505953-angled.svg" width="120" height="80"><br>
-  <img src="https://img.shields.io/badge/version-v3.1-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/status-Stable-orange?style=for-the-badge">
-</p>
-
 ## Overview
 **Opsec Hardener** is an interactive security hardening tool for Fedora/Ubuntu. It scans processes, compares against a **Sys‑Snapshots** baseline, and offers **guided decisions** with plain‑English explanations (purpose, last use, criticality, safe to kill). Includes network hardening presets.
 
